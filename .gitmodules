@@ -1,0 +1,9 @@
+[submodule "deps/node-stream"]
+	path = deps/node-stream
+	url = git@github.com:promised-io/node-stream.git
+[submodule "deps/node-fs"]
+	path = deps/node-fs
+	url = git@github.com:promised-io/node-fs.git
+[submodule "deps/core"]
+	path = deps/core
+	url = git@github.com:promised-io/core.git

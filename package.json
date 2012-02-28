@@ -1,0 +1,13 @@
+{
+  "name": "promised-io",
+  "version": "0.5.0-pre",
+  "private": true,
+  "dependencies": {
+    "amdefine": "0.0.1",
+    "compose": "https://github.com/promised-io/compose/tarball/80a86863e10e5cfba039bde716a548a88736e8e0"
+  },
+  "directories": {
+    "lib": ".",
+    "doc": "./doc"
+  }
+}
