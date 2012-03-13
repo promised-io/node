@@ -7,3 +7,6 @@
 [submodule "deps/core"]
 	path = deps/core
 	url = git@github.com:promised-io/core.git
+[submodule "deps/node-http-server"]
+	path = deps/node-http-server
+	url = git@github.com:promised-io/node-http-server.git
