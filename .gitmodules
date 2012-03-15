@@ -10,3 +10,6 @@
 [submodule "deps/node-http-server"]
 	path = deps/node-http-server
 	url = git@github.com:promised-io/node-http-server.git
+[submodule "deps/oauth2"]
+	path = deps/oauth2
+	url = git@github.com:promised-io/oauth2.git
