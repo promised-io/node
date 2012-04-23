@@ -13,3 +13,6 @@
 [submodule "deps/oauth2"]
 	path = deps/oauth2
 	url = git@github.com:promised-io/oauth2.git
+[submodule "deps/oauth"]
+	path = deps/oauth
+	url = git@github.com:promised-io/oauth.git
